@@ -18,7 +18,8 @@ module.exports = {
       "PrimitiveTechExperience",
       "AnirudhBharadwaj1",
       "Trishul2005",
-      "RahulG-0"
+      "RahulG-0",
+      "tusharra0"
     ];
 
     const authorNames = [
@@ -28,7 +29,8 @@ module.exports = {
       "PrimitiveTechExperience",
       "Anirudh Bharadwaj",
       "Trishul",
-      "Rahul G"
+      "Rahul G",
+      "Tushar Rao"
     ];
 
     const perPage = 100;
