@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^2.7.0"
+  }
+}
